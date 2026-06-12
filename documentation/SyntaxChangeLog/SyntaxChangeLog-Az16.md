@@ -1,3 +1,10 @@
+## 16.1.0 - July 2026
+#### Az.AppConfiguration 2.2.0 
+* Modified cmdlet `New-AzAppConfigurationSnapshot`
+   - Added parameter `-Description`
+* Modified cmdlet `Set-AzAppConfigurationKeyValue`
+   - Added parameter `-Description`
+
 ## 16.0.0 - June 2026
 #### Az.Accounts 5.5.0 
 * Modified cmdlet `Add-AzEnvironment`
@@ -6972,5 +6979,6 @@
    - Changed the type of parameter `-StagingEnvironmentPolicy` from `StagingEnvironmentPolicy` to `String`
 * Modified cmdlet `Update-AzStaticWebAppUser`
    - Added parameters `-AuthproviderInputObject`, `-StaticSiteInputObject`, `-StaticSiteUserEnvelope`, `-JsonFilePath`, `-JsonString`
+
 
 

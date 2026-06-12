@@ -1,3 +1,19 @@
+## 16.1.0 - July 2026
+#### Az.Accounts 5.5.1
+<<<<<<< Daily/Release_20260527062757
+
+#### Az.Aks 7.2.1
+* Added support for 'AzureContainerLinux' OS SKU in 'New-AzAksCluster' ('-NodeOsSKU') and 'New-AzAksNodePool' ('-OsSKU')
+    - Azure Container Linux is a container-optimized, immutable Linux OS for AKS node images. See https://aka.ms/azurecontainerlinux
+* Bumped API version to 2026-03-01
+
+#### Az.AppConfiguration 2.2.0
+* Upgraded API version from 2024-06-01 to 2026-04-01
+    - Added support for Description field for Key Values and Snapshots
+
+#### Az.RecoveryServices 7.12.1
+* Added Cross region restore support for Delos cloud regions
+
 ## 16.0.0 - June 2026
 #### Az.Accounts 5.5.0
 * Added ChangeSafety Support
