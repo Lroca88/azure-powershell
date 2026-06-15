@@ -1466,9 +1466,11 @@
     },
     "Az.ComputeFleet": {
       "Get-AzComputeFleet": {},
-      "Get-AzComputeFleetVMSS": {},
+      "Get-AzComputeFleetVirtualMachine": {},
+      "Get-AzComputeFleetVirtualMachineScaleSet": {},
       "New-AzComputeFleet": {},
       "Remove-AzComputeFleet": {},
+      "Set-AzComputeFleet": {},
       "Update-AzComputeFleet": {}
     },
     "Az.ComputeLimit": {
