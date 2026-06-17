@@ -1,7 +1,7 @@
-pac0,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Accounts.5.5.0.zip;sourceType=sa]Az.Accounts,5.5.0
+pac0,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Accounts.5.5.1.zip;sourceType=sa]Az.Accounts,5.5.1
 pac1,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ADDomainServices.0.3.0.zip;sourceType=sa]Az.ADDomainServices,0.3.0
 pac2,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Advisor.3.0.0.zip;sourceType=sa]Az.Advisor,3.0.0
-pac3,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Aks.7.2.0.zip;sourceType=sa]Az.Aks,7.2.0
+pac3,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Aks.7.2.1.zip;sourceType=sa]Az.Aks,7.2.1
 pac4,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.AksArc.0.1.4.zip;sourceType=sa]Az.AksArc,0.1.4
 pac5,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Alb.0.1.4.zip;sourceType=sa]Az.Alb,0.1.4
 pac6,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.AlertsManagement.0.8.0.zip;sourceType=sa]Az.AlertsManagement,0.8.0
@@ -9,7 +9,7 @@ pac7,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-releas
 pac8,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ApiManagement.4.2.0.zip;sourceType=sa]Az.ApiManagement,4.2.0
 pac9,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.App.2.0.1.zip;sourceType=sa]Az.App,2.0.1
 pac10,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.AppComplianceAutomation.0.1.4.zip;sourceType=sa]Az.AppComplianceAutomation,0.1.4
-pac11,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.AppConfiguration.2.1.0.zip;sourceType=sa]Az.AppConfiguration,2.1.0
+pac11,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.AppConfiguration.2.2.0.zip;sourceType=sa]Az.AppConfiguration,2.2.0
 pac12,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ApplicationInsights.3.0.0.zip;sourceType=sa]Az.ApplicationInsights,3.0.0
 pac13,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ArcGateway.0.1.2.zip;sourceType=sa]Az.ArcGateway,0.1.2
 pac14,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ArcResourceBridge.2.0.0.zip;sourceType=sa]Az.ArcResourceBridge,2.0.0
@@ -34,7 +34,7 @@ pac32,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-relea
 pac33,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.CognitiveServices.1.17.0.zip;sourceType=sa]Az.CognitiveServices,1.17.0
 pac34,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Communication.0.6.0.zip;sourceType=sa]Az.Communication,0.6.0
 pac35,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.Compute.11.6.0.zip;sourceType=sa]Az.Compute,11.6.0
-pac36,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ComputeFleet.0.1.1.zip;sourceType=sa]Az.ComputeFleet,0.1.1
+pac36,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ComputeFleet.0.2.0.zip;sourceType=sa]Az.ComputeFleet,0.2.0
 pac37,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ComputeLimit.0.1.0.zip;sourceType=sa]Az.ComputeLimit,0.1.0
 pac38,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ComputeSchedule.0.1.1.zip;sourceType=sa]Az.ComputeSchedule,0.1.1
 pac39,[ps=true;customSource=https://azpspackage.blob.core.windows.net/docs-release/Az.ConfidentialLedger.2.0.0.zip;sourceType=sa]Az.ConfidentialLedger,2.0.0
